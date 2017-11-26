@@ -51,8 +51,8 @@ The environment i have developed is using a linux environment .For Building plea
     * "calc" to calculate the discounted prices
     * "quit" to quit the application 
     
-4)Check the screen shot below for the "calc" sequence
-5)use the file [shop_inventory.csv](https://github.com/reachrkr/discountcalc/blob/master/shop_inventory.csv)  for adding the inventory
+4) Check the screen shot below for the "calc" sequence
+5) Use the file [shop_inventory.csv](https://github.com/reachrkr/discountcalc/blob/master/shop_inventory.csv)  for adding the inventory
 
    ![calc](https://github.com/reachrkr/discountcalc/blob/master/dicount_calc.png)
 
