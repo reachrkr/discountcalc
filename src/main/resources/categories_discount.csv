@@ -1,0 +1,9 @@
+category,discount,parent_category
+Shirts,0,men
+Trouser,0,men
+Casuals,30,men
+Jeans,20,men
+Dresses,0,women
+Footwear,0,women
+men,0,none
+women,50,none
