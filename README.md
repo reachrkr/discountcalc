@@ -13,7 +13,8 @@ There are 2 use-cases which needs to catered for
 ##  Design
 This Design caters to both the Use cases. Below is the seq flow
 
-[[img src=dicsountcalc_seq.png alt=seq]]
+![seq](https://github.com/reachrkr/discountcalc/blob/master/dicsountcalc_seq.png)
+
 ## Implementation 
 
 From implementation standpoint, Following data points has been considered 
@@ -53,11 +54,7 @@ The environment i have developed is using a linux environment .For Building plea
 4)Check the screen shot below for the "calc" sequence
 5)use the file [shop_inventory.csv](https://github.com/reachrkr/discountcalc/blob/master/shop_inventory.csv)  for adding the inventory
 
-   
-   [[img src=dicount_calc.png alt=calc]]
-   
-             
-             
+   ![calc](https://github.com/reachrkr/discountcalc/blob/master/dicount_calc.png)
 
 ## Open points/issues
 1) Validation of choices is not workng properly
