@@ -13,7 +13,7 @@ There are 2 use-cases which needs to catered for
 ##  Design
 This Design caters to both the Use cases. Below is the seq flow
 
-
+[[img src=dicsountcalc_seq.png alt=seq]]
 ## Implementation 
 
 From implementation standpoint, Following data points has been considered 
@@ -23,7 +23,7 @@ From implementation standpoint, Following data points has been considered
 3) For use case 1, i have created two csv namely , brands_discount.csv and categories_discount.csv which pertains to all the categories combination. The schema for categories_discount
 is extensible enough to support multiple sub categories
 4) Uploading the inventory csv also has to be done with a file name shop_inventory.csv
-5) for Reading CSV i have used apache commons-csv 
+5) for Reading CSV  have used apache commons-csv 
 
 
 
@@ -51,9 +51,10 @@ The environment i have developed is using a linux environment .For Building plea
     * "quit" to quit the application 
     
 4)Check the screen shot below for the "calc" sequence
-5)use the file shop_inventory.csv for adding the inventory
+5)use the file [shop_inventory.csv](https://github.com/reachrkr/discountcalc/blob/master/shop_inventory.csv)  for adding the inventory
+
    
-   
+   [[img src=dicount_calc.png alt=calc]]
    
              
              
