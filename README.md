@@ -51,14 +51,16 @@ The environment i have developed is using a linux environment .For Building plea
     * "quit" to quit the application 
     
 4)Check the screen shot below for the "calc" sequence
-5)
+5)use the file shop_inventory.csv for adding the inventory
    
    
    
              
              
 
-## Open points
+## Open points/issues
+1) Validation of choices is not workng properly
+2) Validation of selecting inventory is pending
 
 
 
