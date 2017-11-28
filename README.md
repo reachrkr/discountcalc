@@ -59,6 +59,7 @@ The environment i have developed is using a linux environment .For Building plea
 ## Open points/issues
 1) Validation of choices is not workng properly
 2) Validation of selecting inventory is pending
+3) Unit test cases
 
 
 
